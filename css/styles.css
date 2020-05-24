@@ -109,6 +109,12 @@ body {
   float: right;
 }
 
+.product-versions-title {
+  padding: 1em 0;
+  font-size: 2em;
+  text-align: center;
+}
+
 .product-versions {
   padding: 1em 0;
   background-color: plum;
@@ -162,4 +168,26 @@ body {
 
 .social-link {
   margin: 0 0.25em;
+}
+
+.footer {
+  padding: 1em 0;
+  font-variant: small-caps;
+  text-align: center;
+  background-color: lightgray;
+}
+
+.footer-links {
+  margin-bottom: 0.75em;
+  font-size: 1.5em;
+}
+
+.footer-link {
+  margin: 0 0.5em;
+  text-decoration: none;
+}
+
+.copyright {
+  font-style: italic;
+  font-size: 1em;
 }
