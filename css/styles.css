@@ -108,3 +108,41 @@ body {
 .testimonials-image {
   float: right;
 }
+
+.product-versions {
+  padding: 1em 0;
+  background-color: plum;
+}
+
+.product-version {
+  float: left;
+  width: 33.33%;
+  border: 1px solid gray;
+  text-align: center;
+  background-color: white;
+}
+.version-title {
+  padding: 0.75em 0;
+  font-size: 1.5em;
+}
+
+.version-price {
+  padding: 0.75em 0;
+  font-size: 2em;
+  background-color: lightgray;
+}
+
+.version-item {
+  border-bottom: 1px solid gray;
+  width: 100%;
+  padding: 0.75em 0;
+  font-size: 1.25em;
+}
+.version-item:last-child {
+  border-bottom: 0;
+}
+.btn-plain {
+  font-weight: normal;
+  color: black;
+  background-color: lightgray;
+}
