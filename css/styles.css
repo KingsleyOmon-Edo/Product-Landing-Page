@@ -39,6 +39,26 @@ body {
   color: white;
 }
 
+.surtitle {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+.title {
+  margin: 0.15em 0;
+  font-size: 3em;
+}
+
+.subtitle {
+  margin: 0.5em 0 1.5em;
+  font-size: 1.25em;
+}
+
+.intro {
+  margin: 0.5em 0 1.5em;
+  font-size: 1.25em;
+}
+
 .btn {
   max-height: 2.5em;
   border: none;
